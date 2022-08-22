@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# UE5 Files/Folders
+Binaries/
+Build/
+!Build/*/
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+Saved/
+Intermediate/
+Plugins/*/Intermediate/
+DerivedDataCache/
